@@ -5,7 +5,7 @@
 #
 # Written by: Esther Heggie August 2024
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#include changes
+#include change
 
 # Install libraries
 #install.packages("shinydashboard")
